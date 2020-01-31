@@ -25,6 +25,9 @@
 *.la
 *.a
 *.lib
+6-00.0
+APN: 8080
+URL~+2348068393274
 
 # Executables
 *.exe
